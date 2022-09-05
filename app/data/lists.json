@@ -1,0 +1,28 @@
+{
+   "0": "2",
+   "1": {
+      "name": "List",
+      "key": "20",
+      "elements": {
+         "0": 3,
+         "1": "double tap for enter",
+         "2": "list num bug",
+         "3": "settings with name "
+      }
+   },
+   "2": {
+      "name": "Second",
+      "key": "20",
+      "elements": {
+         "0": 8,
+         "1": "testing this 2",
+         "2": "this should work",
+         "3": "--l2",
+         "4": "le",
+         "5": "l2",
+         "6": "2l2p",
+         "7": "2ez",
+         "8": "ja schoo aa"
+      }
+   }
+}

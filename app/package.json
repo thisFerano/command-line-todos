@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "node": "^16.10.0",
+    "prompt-sync": "^4.2.0"
+  },
+  "name": "todos",
+  "version": "1.0.3",
+  "description": "Save your quick notes and notes via a terminal locally or globally",
+  "main": "./main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "t": "./main.js"
+  },
+  "author": "Roman Zollner",
+  "contributors": [],
+  "license": "ISC"
+}

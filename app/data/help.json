@@ -1,0 +1,11 @@
+{
+    "T": "open TODO-Menu to see all TODO-Lists",
+    "A": "clear list",
+    "R": "restore previously deleted list",
+    "E": "back/exit",
+    "EE": "exit",
+    "S": "settings",
+    "Number": "delete task/list",
+    "First,Second": "switch tasks",
+    "String": "create Task/open list"
+}
